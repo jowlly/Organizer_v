@@ -3697,19 +3697,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pagro\\.nuget\\packages\\": {}
+    "C:\\Users\\Полина\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prog\\Organizer_v\\Organizer_v\\Organizer_v.csproj",
+      "projectUniqueName": "C:\\Users\\Полина\\Documents\\GitHub\\Organizer_v\\Organizer_v\\Organizer_v.csproj",
       "projectName": "Organizer_v",
-      "projectPath": "D:\\Prog\\Organizer_v\\Organizer_v\\Organizer_v.csproj",
-      "packagesPath": "C:\\Users\\pagro\\.nuget\\packages\\",
-      "outputPath": "D:\\Prog\\Organizer_v\\Organizer_v\\obj\\",
+      "projectPath": "C:\\Users\\Полина\\Documents\\GitHub\\Organizer_v\\Organizer_v\\Organizer_v.csproj",
+      "packagesPath": "C:\\Users\\Полина\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Полина\\Documents\\GitHub\\Organizer_v\\Organizer_v\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pagro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Полина\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3789,7 +3789,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
