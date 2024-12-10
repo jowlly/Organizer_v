@@ -9,7 +9,7 @@
         public string Patronymic { get; set; } = string.Empty;
         public string Adress { get; set; } = string.Empty;
         public string Details { get; set; } = string.Empty;
-        //vze
+        //vmeow
 
 
 
